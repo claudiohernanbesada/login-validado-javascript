@@ -6,7 +6,7 @@ Ingresando a la url:  podrás probar el funcionamiento del formulario y su valid
 
 ## Uso
 
-1.  Clone el repositorio haciendo ``
+1.  Clone el repositorio haciendo `https://github.com/claudiohernanbesada/login-validado-javascript.git`
 2.  Abra el proyecto en su editor de código
 3.  Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
 
