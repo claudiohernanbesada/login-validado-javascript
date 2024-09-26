@@ -1,8 +1,9 @@
 # Login validado con JavaScript
 Este repositorio contiene un formulario de login, el cual posee validaciones realizada en HTML, CSS y JS
+Tras el correcto login, se registra una localStorage con key: email para poder ser consultada posteriormente.
 
 ## Demo
-Ingresando a la url:  podrás probar el funcionamiento del formulario y su validación.
+Ingresando a la url: https://cbe-login-validation-javascript.netlify.app/ podrás probar el funcionamiento del formulario y su validación.
 
 ## Uso
 
