@@ -3,7 +3,7 @@ Este repositorio contiene un formulario de login, el cual posee validaciones rea
 Tras el correcto login, se registra una localStorage con key: email para poder ser consultada posteriormente.
 
 ## Demo
-Ingresando a la url: https://cbe-login-validation-javascript.netlify.app/ podrás probar el funcionamiento del formulario y su validación.
+Ingresando a la url: <a href="https://cbe-login-validation-javascript.netlify.app/" target="_blank">https://cbe-login-validation-javascript.netlify.app/</a> podrás probar el funcionamiento del formulario y su validación.
 
 ## Uso
 
